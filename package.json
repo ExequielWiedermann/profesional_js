@@ -4,7 +4,10 @@
   "description": "profesional_js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
   },
   "keywords": [],
   "author": "Exequiel Wiedermann <ewiedermann@init-dev.com.ar>",
