@@ -7,7 +7,7 @@
     "start": "live-server"
   },
   "devDependencies": {
-    "live-server": "^1.2.1"
+    "live-server": "^1.2.2"
   },
   "keywords": [],
   "author": "Exequiel Wiedermann <ewiedermann@init-dev.com.ar>",
